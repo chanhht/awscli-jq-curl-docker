@@ -1,3 +1,3 @@
-FROM b4nst/docker-awscli
+FROM banst/awscli
 
 RUN apk -v --update --no-cache add curl
